@@ -1,0 +1,41 @@
+
+g	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­ƒŸ›2
+g	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­ƒŸ›2
+g	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­ƒŸ›2
+W
+java:S11413"5Extract this nested try block into a separate method.(²¢šŸþÿÿÿÿ8¯ƒŸ›2
+n
+java:S2095."LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÿÒ°ôùÿÿÿÿ8ÀƒŸ›2
+P
+java:S2755i"3Disable access to external entities in XML parsing.(Ý‰Ë–8ÀƒŸ›2
+U
+java:S27551"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ8ÀƒŸ›2
+{	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ô¹äžþÿÿÿÿ8ÁƒŸ›2
+{	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨©Ûãùÿÿÿÿ8Îœ±Å¥2
+c
+java:S1075#"ARefactor your code to get this URI from a customizable parameter.(Ô¹äžþÿÿÿÿ8ÃƒŸ›2
+O
+java:S1135""2Complete the task associated to this TODO comment.(§ÏŸÕ8Ûœ±Å¥2
+c
+java:S1075$"ARefactor your code to get this URI from a customizable parameter.(¨©Ûãùÿÿÿÿ8Üœ±Å¥2
+W
+java:S1161(":Add the "@Override" annotation above this method signature(“–ýþ8ÃƒŸ›2
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ý÷Ž8ÄƒŸ›2
+H
+java:S1075,"&Remove this hard-coded path-delimiter.(—ÝÄÜùÿÿÿÿ8ÄƒŸ›2
+n
+java:S2677/"LUse or store the value returned from "readLine" instead of throwing it away.(Ú”Œ‰ùÿÿÿÿ8ÄƒŸ›2
+a
+java:S2147K"DCombine this catch with the one at line 73, which has the same body.(Ã‡²ö8ÅƒŸ›2
+f
+java:S2147M"DCombine this catch with the one at line 75, which has the same body.(¯þ¼ ùÿÿÿÿ8ÅƒŸ›2
+]	java:S125>"<This block of commented-out lines of code should be removed.(Ÿ¡â˜üÿÿÿÿ8ÆƒŸ›2
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ú”Î£üÿÿÿÿ8ùœ±Å¥2
+]	java:S125E"<This block of commented-out lines of code should be removed.(Ÿ„Ÿøÿÿÿÿ8úœ±Å¥2
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ª€‰ü8ÈƒŸ›2
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(Èï‡Ž8ÈƒŸ›2
+š
+java:S1130g"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(™ô8ÊƒŸ›2
+W	java:S125m"<This block of commented-out lines of code should be removed.(¼Ìî}8ÊƒŸ›2
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8”±Å¥2
